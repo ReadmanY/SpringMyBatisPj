@@ -2,7 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+<<<<<<< HEAD
 			<item value="C:\Users\gc52\Desktop\big_data_study_220530\spring_workspace\SpringMyBatisPj\springProject"/>
+=======
+			<item value="C:\Users\USER\Desktop\big_data_study_220531\spring_workspace\SpringMyBatisPj\springProject"/>
+>>>>>>> origin/kyh
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
